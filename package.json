@@ -1,0 +1,28 @@
+{
+  "name": "alrawasi-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0",
+    "build": "next build && node scripts/normalize-export.mjs",
+    "start": "serve out -l 3000",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "16.3.4",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "gsap": "3.15.0",
+    "@phosphor-icons/react": "2.1.10",
+    "@fontsource/tajawal": "^5.2.0",
+    "@fontsource/cairo": "^5.2.0",
+    "@fontsource/outfit": "^5.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "serve": "^14.2.4"
+  }
+}

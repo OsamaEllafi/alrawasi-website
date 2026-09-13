@@ -1,0 +1,44 @@
+{
+  "generatedAt": "2026-09-10",
+  "generationMode": "built-in image_gen.imagegen",
+  "purpose": "Text-free architectural artwork pair for Alrawasi drawing-to-landmark scroll reveal",
+  "assets": [
+    {
+      "id": "hero-render",
+      "publicPath": "/images/generated/hero-render.webp",
+      "sourcePng": "assets/generated/hero-render.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "bytes": 149618,
+      "encoding": "WebP quality 88, no crop or resize",
+      "referenceImages": [
+        "design-previews/03-drawing-to-landmark.png",
+        "assets/images/cbl-shahat.jpg"
+      ],
+      "promptFile": "assets/generated/hero-render.prompt.txt",
+      "prompt": "Use case: stylized-concept.\nAsset type: production website hero artwork, text-free building render, landscape 1536 x 1024.\nInput images: image 1 is an approved website composition reference ONLY; extract its architectural subject, never reproduce UI. Image 2 is the original architectural project source and identity reference.\nPrimary request: Create one beautiful complete architectural visualization of the SAME modern building shown in both references, with its long bronze vertical-finned facade and two striking forward cantilevered triangular bronze portals over tall glass. Show the entirety of this building in a wide composition, three-quarter view from the front-right at pedestrian height, facade receding to the left. This is a standalone photoreal artwork layer for a scrolling reveal.\nScene/backdrop: seamless very dark graphite background #191c20; no visible sky, no horizon, no city. Building and small foreground road emerge from darkness. All four canvas edges blend smoothly into flat #191c20.\nSubject: faithfully preserve the distinctive copper/bronze fin-clad angular architecture. Large main angular portal right-of-center, smaller matching portal at right; long receding fins toward left. Warm subtle interior light behind tall clear glass. Building dominates approximately 85 percent of canvas width. Entire architecture fully within canvas, roughly x=100..1430, y=210..790, including all roofs and base. Keep foreground shallow, with subtle road/paving, low planting and small bollard lights. Maximum two small understated parked cars, no people.\nStyle: premium realistic architectural visualization, precise fins and glass mullions, bronze material, restrained cinematic lighting; exceptionally clean and credible.\nComposition: landscape 3:2 canvas, generous dark space above roof; no lettering, overlays or decorative lines. Unlike reference 1, ALL of the building must be a finished bronze photoreal render: no wireframe half and no grayscale half.\nConstraints: NO text in any language, NO logos, NO UI, NO buttons, NO dividing lines, NO dimensions, NO labels, NO watermark. NO sky, sunset, mountains, stars, pedestrians or extraneous buildings. Not a screenshot or webpage; deliver only the architectural artwork."
+    },
+    {
+      "id": "hero-drawing",
+      "publicPath": "/images/generated/hero-drawing.webp",
+      "sourcePng": "assets/generated/hero-drawing.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "bytes": 266314,
+      "encoding": "WebP quality 92, no crop or resize",
+      "referenceImages": [
+        "assets/generated/hero-render.png",
+        ".impeccable/mocks/hero-structure/02-engineering-xray-cutaway.png"
+      ],
+      "promptFile": "assets/generated/hero-drawing.prompt.txt",
+      "prompt": "Use case: precise-object-edit.\nAsset type: production-ready alternative monochrome layer for an interactive architectural before/after website hero, landscape 1536 x 1024.\nInput images: Image 1 is the exact finished bronze building layer and is the geometry/camera invariant. Image 2 is the current monochrome wireframe layer and is the canvas, crop, technical line-color, and graphite-background reference.\nPrimary request: create OPTION 2, \"ENGINEERING X-RAY CUTAWAY\". Transform the exact same finished building into an elegant black-and-white architectural section perspective that reveals how the building works inside while retaining a faint, ghosted exterior envelope.\nPreserve invariants exactly: identical camera position, focal length, perspective, building footprint, overall roof silhouette, two angled portal volumes, left receding wing, ground plane, landscape placement, and all canvas margins from the references. The result must align closely enough to be overlaid and revealed by a vertical comparison slider against Image 1.\nSubject: show a credible sectional interior through the facade: repeated floor slabs, primary columns and beams, two reinforced-concrete circulation cores, stair flights, the angled portal trusses, selected ceiling/service zones, and a clear structural rhythm. Keep the exterior bronze fins as very faint white ghost lines so the finished form remains legible around the exposed interior. Make the cutaway readable and beautiful, with a few solid pale-gray structural surfaces against precise white technical edges. No rooms full of furniture; the focus is engineering anatomy.\nStyle/medium: premium monochrome architectural X-ray visualization, a sophisticated hybrid of a physical cutaway model and precise technical drafting. Dense enough to reward inspection but calm enough for a luxury homepage hero.\nScene/backdrop: seamless dark graphite #191c20 with the same negative space above and the same ground-plane geometry as the references.\nColor palette: strictly black, graphite, charcoal, steel gray, pale gray, and warm white. No bronze, gold, colored systems, magenta, or any other color.\nLighting/mood: soft internal white illumination through the cut planes and restrained rim light; technical, controlled, spatially deep.\nComposition/framing: exact full-building three-quarter view from the front-right, receding left, matching Image 1 pixel placement as closely as possible.\nConstraints: text-free; no people, vehicles, landscaping, dimensions, arrows, labels, logos, UI, watermark, exploded parts, floating floors, dramatic fog, or unrelated buildings. Do not redesign the architecture. Do not alter the camera or crop. Do not produce a webpage screenshot. Deliver only the complete monochrome hero artwork."
+    }
+  ],
+  "compositionNotes": "1536x1024 landscape artwork. The approved monochrome layer preserves the finished render framing while revealing internal slabs, columns, reinforced-concrete cores, stairs, portal trusses and selected services through a ghosted exterior envelope. Both layers use identical aspect ratio, object-fit, position, scale and clip mask.",
+  "alignmentValidation": "The approved engineering X-ray cutaway and optimized WebP were checked at 1536x1024 against the finished render. Camera, framing, main roof silhouette, portal volumes and ground plane align closely for the interactive vertical reveal. Generative edits can introduce small edge differences in structural and facade detail.",
+  "provenance": "Original user-supplied assets are unchanged. The finished render is AI-generated from the approved site direction and supplied project image. The monochrome layer is the user-approved Engineering X-Ray Cutaway generated with built-in ImageGen from that exact render and the earlier drawing reference. The source PNG contains impeccable:prompt metadata; the shipping WebP retains its exact prompt in a JSON sidecar."
+}

@@ -1,0 +1,1398 @@
+{
+  "retrieved_at": "2026-09-10T20:48:08.424153+00:00",
+  "scope": "All supplied Markdown image links plus images in their live pages, CSS, and page/layout JavaScript.",
+  "capture_image_count": 53,
+  "total_unique_urls": 58,
+  "downloaded": 57,
+  "failed": 1,
+  "page_errors": [],
+  "assets": [
+    {
+      "url": "https://alrwasi.ly/images/about-hero.png",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_about_.md",
+        "alrawasi company overview/alrwasi.ly_en_about_.md",
+        "https://alrwasi.ly/ar/about/",
+        "https://alrwasi.ly/en/about/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/about/page-aabd42c4677aa95d.js"
+      ],
+      "alt_texts": [
+        "About Al-Rawasi"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/about-hero.png",
+      "bytes": 807094,
+      "dimensions": [
+        1024,
+        575
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "9994f7a16fba30b3ad603dd2421be3a67221fe5a91066e01c9e93f394ddd56c4",
+      "final_url": "https://alrwasi.ly/images/about-hero.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/bilal-mosque.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_projects_.md",
+        "alrawasi company overview/alrwasi.ly_en_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "صيانة وتحوير مسجد بلال بن رباح",
+        "Maintenance and Modification of Bilal Bin Rabah Mosque"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/bilal-mosque.jpg",
+      "bytes": 76093,
+      "dimensions": [
+        1200,
+        675
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "2e691897e7561b01ea4fab9bb4117c9d4258944cc77381597f4c9e021c0ec096",
+      "final_url": "https://alrwasi.ly/images/bilal-mosque.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/cbl-shahat.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_projects_.md",
+        "alrawasi company overview/alrwasi.ly_en_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "مصرف ليبيا المركزي / شحات",
+        "Central Bank of Libya / Shahat"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/cbl-shahat.jpg",
+      "bytes": 65463,
+      "dimensions": [
+        961,
+        1024
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "ae1aa17469462c2f2307d4c165a6df61de5dfeb37b5237f7ce1fcb5c2d3cea3b",
+      "final_url": "https://alrwasi.ly/images/cbl-shahat.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/central-bank.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_projects_.md",
+        "alrawasi company overview/alrwasi.ly_en_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "قسم الإصدار - وحدة الاستقرار المالي ليبيا",
+        "Issue Department - Financial Stability Unit Libya"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/central-bank.jpg",
+      "bytes": 73079,
+      "dimensions": [
+        1024,
+        747
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "841d6e2d5904d064253d4dcb3cf16910a09fa486ecf2e2e26d13298233a9b44d",
+      "final_url": "https://alrwasi.ly/images/central-bank.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/certificates/iso-14001.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "ISO 14001:2015"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/certificates/iso-14001.jpg",
+      "bytes": 129635,
+      "dimensions": [
+        682,
+        1024
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "6418c3f93079d6ca490679a3f4ffe1e5b95bf969f8cb3b897bfb9711e4c6f231",
+      "final_url": "https://alrwasi.ly/images/certificates/iso-14001.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/certificates/iso-45001.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "ISO 45001:2018"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/certificates/iso-45001.jpg",
+      "bytes": 134675,
+      "dimensions": [
+        682,
+        1024
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "58f96eec0f9247d6f7283aff687a70ed7130d813eeec55b94295499eaa8416b2",
+      "final_url": "https://alrwasi.ly/images/certificates/iso-45001.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/certificates/iso-9001.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "ISO 9001:2015"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/certificates/iso-9001.jpg",
+      "bytes": 138448,
+      "dimensions": [
+        682,
+        1024
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "afd4423c47c6fa58e44289cee1fd08452f03b02dd8b651f2265142daa25257f8",
+      "final_url": "https://alrwasi.ly/images/certificates/iso-9001.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/clients/akhdar-transparent.png",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "نادي الأخضر الرياضي",
+        "Al-Akhdar Sport Club"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/clients/akhdar-transparent.png",
+      "bytes": 221000,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "d077763f79652926d8324b636538cd9bd158a232ac2431c27f65ca99c6eaeded",
+      "final_url": "https://alrwasi.ly/images/clients/akhdar-transparent.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/clients/al-bayda-municipal.png",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "المجلس البلدي البيضاء",
+        "Al-Bayda Municipal Council"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/clients/al-bayda-municipal.png",
+      "bytes": 51316,
+      "dimensions": [
+        1024,
+        890
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "37642323ed1f04b0d6ec98b7c10f340d088d21a41e697674878abe530ca187ba",
+      "final_url": "https://alrwasi.ly/images/clients/al-bayda-municipal.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/clients/awqaf.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "الهيئة العامة للأوقاف",
+        "General Authority for Awqaf"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/clients/awqaf.jpg",
+      "bytes": 11186,
+      "dimensions": [
+        225,
+        225
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "ae4971e60971c28dcb884595b02bc68f26d6bf5aa91bc993097e0766c6072430",
+      "final_url": "https://alrwasi.ly/images/clients/awqaf.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/clients/bcd.png",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "مصرف التجارة والتنمية",
+        "Bank of Commerce & Development"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/clients/bcd.png",
+      "bytes": 5488,
+      "dimensions": [
+        232,
+        165
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "e21da31bda250d383139749cc1b42b049dfb9f59c8c4a5824de477928fae9498",
+      "final_url": "https://alrwasi.ly/images/clients/bcd.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/clients/cbl-final.png",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "مصرف ليبيا المركزي",
+        "Central Bank of Libya"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/clients/cbl-final.png",
+      "bytes": 10487,
+      "dimensions": [
+        250,
+        144
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "42526a83ab6bc2848340fe4c21cdb7fb026c42364243567d94efef672027ecb0",
+      "final_url": "https://alrwasi.ly/images/clients/cbl-final.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/clients/emaar-libya.png",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "شركة إعمار ليبيا القابضة",
+        "Emaar Libya Holding Co."
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/clients/emaar-libya.png",
+      "bytes": 12132,
+      "dimensions": [
+        400,
+        129
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "9a5f87a195a83971cd0728a1c48c057b876b40a09976f5cd11255e51b8b30923",
+      "final_url": "https://alrwasi.ly/images/clients/emaar-libya.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/clients/finance-ministry-transparent.png",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "وزارة المالية",
+        "Ministry of Finance"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/clients/finance-ministry-transparent.png",
+      "bytes": 290006,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "913669995012390d893be50455c566a0359b2a2c54853f63382555cc23dd8d7a",
+      "final_url": "https://alrwasi.ly/images/clients/finance-ministry-transparent.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/clients/libya-post.png",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "بريد ليبيا",
+        "Libya Post"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/clients/libya-post.png",
+      "bytes": 33162,
+      "dimensions": [
+        720,
+        720
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "ea400a603aaf6a15181895f9f0c4056bccf7e3b4e2c224124e76e9dc64f9daa4",
+      "final_url": "https://alrwasi.ly/images/clients/libya-post.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/clients/libyana.png",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "ليبيانا للهاتف المحمول",
+        "Libyana Mobile Phone"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/clients/libyana.png",
+      "bytes": 26827,
+      "dimensions": [
+        920,
+        691
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "314d8563c2dc1b460b78fc2bfff609a26a5c7ff0649dcb3b55e843417e8b42be",
+      "final_url": "https://alrwasi.ly/images/clients/libyana.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/clients/man-made-river.png",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "جهاز استثمار مياه النهر الصناعي",
+        "Man-Made River Water Investment Authority"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/clients/man-made-river.png",
+      "bytes": 64195,
+      "dimensions": [
+        232,
+        200
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "7a48e4fd5131d3c5758373d78ee387f06bc0f73ce9abb11c04a87ebdf7e7f3dc",
+      "final_url": "https://alrwasi.ly/images/clients/man-made-river.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/clients/ministry-agra.png",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "حكومة الوحدة الوطنية (وزارة الزراعة)",
+        "Ministry of Agriculture"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/clients/ministry-agra.png",
+      "bytes": 37738,
+      "dimensions": [
+        500,
+        500
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "d2d57cfb71c72c4dbaeecd59737533d53ec574cfb2a68ebab19a2188c23c6a1f",
+      "final_url": "https://alrwasi.ly/images/clients/ministry-agra.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/clients/ministry-health.png",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "وزارة الصحة",
+        "Ministry of Health"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/clients/ministry-health.png",
+      "bytes": 98198,
+      "dimensions": [
+        716,
+        864
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "7e7957fb1eeb8b68f42059e5ac783e990bf10327c12dc062345e12ef038069ef",
+      "final_url": "https://alrwasi.ly/images/clients/ministry-health.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/clients/ministry-justice.png",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "وزارة العدل",
+        "Ministry of Justice"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/clients/ministry-justice.png",
+      "bytes": 124311,
+      "dimensions": [
+        729,
+        1024
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "3df1ce3cc78baaa3a2c3269ad14597fce6f0d3cff1f85018030401842e6da869",
+      "final_url": "https://alrwasi.ly/images/clients/ministry-justice.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/clients/nab-bank.png",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "مصرف شمال أفريقيا",
+        "North Africa Bank"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/clients/nab-bank.png",
+      "bytes": 44677,
+      "dimensions": [
+        130,
+        200
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "92af82c90ffd92ccf7a55415768c460bcdc5a0e5bf1deecad54b00eed5e28e92",
+      "final_url": "https://alrwasi.ly/images/clients/nab-bank.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/clients/ncb.png",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "المصرف التجاري الوطني",
+        "National Commercial Bank"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/clients/ncb.png",
+      "bytes": 5286,
+      "dimensions": [
+        225,
+        225
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "0d3245588d9e9e75c68a2f84997b6fe6a18ef2c3b23272713807f86c4bf94c30",
+      "final_url": "https://alrwasi.ly/images/clients/ncb.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/clients/reconstruction-fund-new.png",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "صندوق تنمية وإعمار ليبيا",
+        "Libya Reconstruction Fund"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/clients/reconstruction-fund-new.png",
+      "bytes": 23439,
+      "dimensions": [
+        301,
+        310
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "c141a63bd27b975d353e550a5be384015a107da29606436d5fc2266761624723",
+      "final_url": "https://alrwasi.ly/images/clients/reconstruction-fund-new.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/clients/senussi-university.png",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "جامعة السيد محمد بن علي السنوسي الإسلامية",
+        "Al-Senussi Islamic University"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/clients/senussi-university.png",
+      "bytes": 16087,
+      "dimensions": [
+        500,
+        500
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "2883beb6e1240f2fb211cd00ef5420e610cf52c9614bc0e74ae167a10027e8c9",
+      "final_url": "https://alrwasi.ly/images/clients/senussi-university.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/clients/wahda.png",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "مصرف الوحدة",
+        "Wahda Bank"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/clients/wahda.png",
+      "bytes": 10492,
+      "dimensions": [
+        225,
+        225
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "a1acde480312451e944eeca77b8fc1b0a8485e568989a3a0bfde7112c7ea41e4",
+      "final_url": "https://alrwasi.ly/images/clients/wahda.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/director.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_about_.md",
+        "alrawasi company overview/alrwasi.ly_en_about_.md",
+        "https://alrwasi.ly/ar/about/",
+        "https://alrwasi.ly/en/about/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/about/page-aabd42c4677aa95d.js"
+      ],
+      "alt_texts": [
+        "المدير العام",
+        "General Manager"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/director.jpg",
+      "bytes": 72217,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "9d99ed4eba90e4df95391b7dff17ed8e9a17c91d8df68c246d325cc5af4378b4",
+      "final_url": "https://alrwasi.ly/images/director.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/gallery-project-1.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_projects_.md",
+        "alrawasi company overview/alrwasi.ly_en_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "Project Image"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/gallery-project-1.jpg",
+      "bytes": 50513,
+      "dimensions": [
+        1024,
+        576
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "1da087c9f0edc8eaee6d9977f11a7886cf97851fffef029965b136ccfe18fa4e",
+      "final_url": "https://alrwasi.ly/images/gallery-project-1.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/gallery-project-10.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_projects_.md",
+        "alrawasi company overview/alrwasi.ly_en_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "Project Image"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/gallery-project-10.jpg",
+      "bytes": 64338,
+      "dimensions": [
+        1024,
+        576
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "e0187b0978ab5a08a906e34f4295c9abf0885237d21a66819364551c063dc07a",
+      "final_url": "https://alrwasi.ly/images/gallery-project-10.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/gallery-project-11.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_projects_.md",
+        "alrawasi company overview/alrwasi.ly_en_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "Project Image"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/gallery-project-11.jpg",
+      "bytes": 84733,
+      "dimensions": [
+        1024,
+        575
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "816313a223949acb9d0099522cc3507038791dc9398750d1704fed545204a141",
+      "final_url": "https://alrwasi.ly/images/gallery-project-11.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/gallery-project-12.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "Project Image"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/gallery-project-12.jpg",
+      "bytes": 90710,
+      "dimensions": [
+        1024,
+        575
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "fe2a1a76d8cd383530909f19550afae8f6c6c91aa7a249d35df1fa2fca61c2c3",
+      "final_url": "https://alrwasi.ly/images/gallery-project-12.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/gallery-project-13.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_projects_.md",
+        "alrawasi company overview/alrwasi.ly_en_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "Project Image"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/gallery-project-13.jpg",
+      "bytes": 65881,
+      "dimensions": [
+        1024,
+        575
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "afd7736e008a5e0bc8bdd31dbeeffb7d8419b7f8942e6137b999ba3b3aa40e33",
+      "final_url": "https://alrwasi.ly/images/gallery-project-13.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/gallery-project-14.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_projects_.md",
+        "alrawasi company overview/alrwasi.ly_en_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "Project Image"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/gallery-project-14.jpg",
+      "bytes": 104680,
+      "dimensions": [
+        1024,
+        575
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "2c6e37260818c99704cbfcb3e4a0ff02663e0af36250e8d9cddd4f32c9ae8b5a",
+      "final_url": "https://alrwasi.ly/images/gallery-project-14.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/gallery-project-2.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_projects_.md",
+        "alrawasi company overview/alrwasi.ly_en_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "Project Image"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/gallery-project-2.jpg",
+      "bytes": 70733,
+      "dimensions": [
+        1024,
+        576
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "eb3afbb7c7b250a822896efd52490c832fb2e419cf06b40ff44e990bc506091e",
+      "final_url": "https://alrwasi.ly/images/gallery-project-2.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/gallery-project-3.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "Project Image"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/gallery-project-3.jpg",
+      "bytes": 78632,
+      "dimensions": [
+        1024,
+        576
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "b1f79017a3aac257ed24b04967e081d6b5abf9ad00023412caf6374839b41ce5",
+      "final_url": "https://alrwasi.ly/images/gallery-project-3.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/gallery-project-4.jpg",
+      "sources": [
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "Project Image"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/gallery-project-4.jpg",
+      "bytes": 51218,
+      "dimensions": [
+        1024,
+        576
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "2a4b0ac7ab00503d864bd772cb3a5055345baaf5eb0a6645f0caf5f962c9ab19",
+      "final_url": "https://alrwasi.ly/images/gallery-project-4.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/gallery-project-5.jpg",
+      "sources": [
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "Project Image"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/gallery-project-5.jpg",
+      "bytes": 79116,
+      "dimensions": [
+        1024,
+        576
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "d8789b6bc97df04cc53ceba1136235f004b86eae8b1cc6302c1d42e0b50a0508",
+      "final_url": "https://alrwasi.ly/images/gallery-project-5.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/gallery-project-6.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_projects_.md",
+        "alrawasi company overview/alrwasi.ly_en_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "Project Image"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/gallery-project-6.jpg",
+      "bytes": 78076,
+      "dimensions": [
+        1024,
+        576
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "15822039a7ea21e71ef1bebf85d981e48283e3b6d886de0d93b6f2aa644dd1f1",
+      "final_url": "https://alrwasi.ly/images/gallery-project-6.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/gallery-project-7.png",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_projects_.md",
+        "alrawasi company overview/alrwasi.ly_en_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "Project Image"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/gallery-project-7.png",
+      "bytes": 55766,
+      "dimensions": [
+        622,
+        341
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "597e7a45712387aa48ff761fda912b9b1405edba31edebd7cd93133342b95c8c",
+      "final_url": "https://alrwasi.ly/images/gallery-project-7.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/gallery-project-8.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_projects_.md",
+        "alrawasi company overview/alrwasi.ly_en_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "Project Image"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/gallery-project-8.jpg",
+      "bytes": 154756,
+      "dimensions": [
+        1024,
+        974
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "45e94f719370a2d2864a0a1601cd3bc3812fa14b2763ee28d85b3dcd27786a1b",
+      "final_url": "https://alrwasi.ly/images/gallery-project-8.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/gallery-project-9.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_projects_.md",
+        "alrawasi company overview/alrwasi.ly_en_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "Project Image"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/gallery-project-9.jpg",
+      "bytes": 107456,
+      "dimensions": [
+        1024,
+        576
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "e9f2f1a196846bb132c7d1d5fb464c2d0e928af9d17f4b504e1386be4712228f",
+      "final_url": "https://alrwasi.ly/images/gallery-project-9.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/grid-pattern.svg",
+      "sources": [
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/projects/page-c1b9743649f1a34b.js",
+        "https://alrwasi.ly/_next/static/css/393333176102043e.css"
+      ],
+      "alt_texts": [],
+      "status": "failed",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://alrwasi.ly/images/hero-bg.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_ar_about_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "alrawasi company overview/alrwasi.ly_en_about_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/ar/about/",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/en/about/",
+        "https://alrwasi.ly/en/projects/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/about/page-aabd42c4677aa95d.js",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "Engineering Construction Site",
+        "Background"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/hero-bg.jpg",
+      "bytes": 123345,
+      "dimensions": [
+        1024,
+        575
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "3ae0b4642742c18677eb5ad7847aafc47098ebc16bd09391f7db9cbf41a06136",
+      "final_url": "https://alrwasi.ly/images/hero-bg.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/libyana-center.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_projects_.md",
+        "alrawasi company overview/alrwasi.ly_en_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "تصميم داخلي وخارجي لمركز مبيعات ليبيانا",
+        "Internal and External Design for Libyana Sales Center"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/libyana-center.jpg",
+      "bytes": 33641,
+      "dimensions": [
+        512,
+        374
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "91af118721abae6c5dd72c8a5298c24266457d1b250bdba3952cc0a459fe0277",
+      "final_url": "https://alrwasi.ly/images/libyana-center.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/logo.png",
+      "sources": [
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/ar/about/",
+        "https://alrwasi.ly/ar/contact/",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/ar/services/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/en/about/",
+        "https://alrwasi.ly/en/contact/",
+        "https://alrwasi.ly/en/projects/",
+        "https://alrwasi.ly/en/services/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/layout-a2b455bc62246d1f.js"
+      ],
+      "alt_texts": [
+        "Al-Rawasi Logo"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/logo.png",
+      "bytes": 5503,
+      "dimensions": [
+        400,
+        400
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "438ce26692dc05ebc111b6915c040fe6329a5d795e7bdfb7d08c8d56e6a88d78",
+      "final_url": "https://alrwasi.ly/images/logo.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/ncb-faidiya.jpg",
+      "sources": [
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [],
+      "status": "downloaded",
+      "local_path": "assets/images/ncb-faidiya.jpg",
+      "bytes": 52565,
+      "dimensions": [
+        1017,
+        524
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "e4bee5f0aeef4e226cdb48b4cd4529c8124bf664eb54279a696d405549942d93",
+      "final_url": "https://alrwasi.ly/images/ncb-faidiya.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/othman-mosque-1.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_en_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "Project Image"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/othman-mosque-1.jpg",
+      "bytes": 57851,
+      "dimensions": [
+        1024,
+        575
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "2dea60d6e9e697f9a481e27d20a164a6b21aac73e911289d086b194dd855692f",
+      "final_url": "https://alrwasi.ly/images/othman-mosque-1.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/othman-mosque.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_en_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "Project Image"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/othman-mosque.jpg",
+      "bytes": 75939,
+      "dimensions": [
+        1080,
+        607
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "1646e45e0eda5cfb90400299b1580d9959e64e553fec0d6ebe54344dc705bf47",
+      "final_url": "https://alrwasi.ly/images/othman-mosque.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/partners/egyptian-house.png",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "البيت المصري للهندسة المعمارية",
+        "Egyptian House For Architecture"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/partners/egyptian-house.png",
+      "bytes": 51374,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "PNG",
+      "content_type": "image/png",
+      "sha256": "97f6122b3fb968e1f4020e6474f92c7f8914ed165ecbfdc45dabc8d235d87d6c",
+      "final_url": "https://alrwasi.ly/images/partners/egyptian-house.png"
+    },
+    {
+      "url": "https://alrwasi.ly/images/partners/gad-industries.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "صناعات جاد",
+        "GAD Industries"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/partners/gad-industries.jpg",
+      "bytes": 32372,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "ec6bb42d1a1de07ff92c27704c53317c82902e5c584b0b68e513961071313768",
+      "final_url": "https://alrwasi.ly/images/partners/gad-industries.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/partners/linex-architects.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "لاينكس للمعمار",
+        "Linex Architects"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/partners/linex-architects.jpg",
+      "bytes": 19065,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "1e8ea5c97289d19cc05c740b6acd1375b75a50940b782cea7fef36e23045625c",
+      "final_url": "https://alrwasi.ly/images/partners/linex-architects.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/partners/plc.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "مركز بريميوم للغات",
+        "Premium Language Centre"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/partners/plc.jpg",
+      "bytes": 63789,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "eeb6ba3f8b698acda55c495f416f16484fbc2e60a3f542b8690fa8095d7c1eab",
+      "final_url": "https://alrwasi.ly/images/partners/plc.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/partners/saobracaj.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "ساوبراتشاي",
+        "Saobracaj"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/partners/saobracaj.jpg",
+      "bytes": 30320,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "fb2ee926e94d052679af3a2a6333a59e03de627c28351d21a41e942a9bb605a0",
+      "final_url": "https://alrwasi.ly/images/partners/saobracaj.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/partners/shine-company.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_.md",
+        "alrawasi company overview/alrwasi.ly_en_.md",
+        "https://alrwasi.ly/ar/",
+        "https://alrwasi.ly/en/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/page-4031a099cbcd38e0.js"
+      ],
+      "alt_texts": [
+        "شركة شاين",
+        "Shine Company"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/partners/shine-company.jpg",
+      "bytes": 4706,
+      "dimensions": [
+        200,
+        200
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "035546ec0a7600025f81a6d3a136ddaf7c816446017a51c548add0a1d5a371ff",
+      "final_url": "https://alrwasi.ly/images/partners/shine-company.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/projects-detail-view.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_projects_.md",
+        "alrawasi company overview/alrwasi.ly_en_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/projects/page-c1b9743649f1a34b.js"
+      ],
+      "alt_texts": [
+        "Detail View"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/projects-detail-view.jpg",
+      "bytes": 68357,
+      "dimensions": [
+        1024,
+        575
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "a14fe009129910ac7d90f60ffd8fcd1eb2e5329cf69d14dd603a6d9b79cff1b5",
+      "final_url": "https://alrwasi.ly/images/projects-detail-view.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/projects-hero.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_projects_.md",
+        "alrawasi company overview/alrwasi.ly_en_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/projects/page-c1b9743649f1a34b.js"
+      ],
+      "alt_texts": [
+        "Projects Hero"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/projects-hero.jpg",
+      "bytes": 106564,
+      "dimensions": [
+        724,
+        1024
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "5622ce85b68ee6321b344679112c77eb7f71a37a24f9b6ede23eac47f0aa43f8",
+      "final_url": "https://alrwasi.ly/images/projects-hero.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/services-bg.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_services_.md",
+        "alrawasi company overview/alrwasi.ly_en_services_.md",
+        "https://alrwasi.ly/ar/services/",
+        "https://alrwasi.ly/en/services/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/services/page-20a075bd7d786ecf.js"
+      ],
+      "alt_texts": [],
+      "status": "downloaded",
+      "local_path": "assets/images/services-bg.jpg",
+      "bytes": 49853,
+      "dimensions": [
+        1024,
+        584
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "8158fccfca0bd2014acc7952cf38bd9d8566703167b9137cbd919f5dd7354ae6",
+      "final_url": "https://alrwasi.ly/images/services-bg.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/services-hero.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_services_.md",
+        "alrawasi company overview/alrwasi.ly_en_services_.md",
+        "https://alrwasi.ly/ar/services/",
+        "https://alrwasi.ly/en/services/",
+        "https://alrwasi.ly/_next/static/chunks/app/%5Blang%5D/services/page-20a075bd7d786ecf.js"
+      ],
+      "alt_texts": [
+        "Services Hero",
+        "Engineering Details"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/services-hero.jpg",
+      "bytes": 90710,
+      "dimensions": [
+        1024,
+        575
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "fe2a1a76d8cd383530909f19550afae8f6c6c91aa7a249d35df1fa2fca61c2c3",
+      "final_url": "https://alrwasi.ly/images/services-hero.jpg"
+    },
+    {
+      "url": "https://alrwasi.ly/images/shahat-mall.jpg",
+      "sources": [
+        "alrawasi company overview/alrwasi.ly_ar_projects_.md",
+        "alrawasi company overview/alrwasi.ly_en_projects_.md",
+        "https://alrwasi.ly/ar/projects/",
+        "https://alrwasi.ly/en/projects/"
+      ],
+      "alt_texts": [
+        "تصميم وتطوير سوق الجمعة-شحات",
+        "Design and Development of Souq Al-Jumaa - Shahat"
+      ],
+      "status": "downloaded",
+      "local_path": "assets/images/shahat-mall.jpg",
+      "bytes": 66025,
+      "dimensions": [
+        1024,
+        584
+      ],
+      "format": "JPEG",
+      "content_type": "image/jpeg",
+      "sha256": "63c49f3780b7a18ef7b1384baf0e87904ae6c170b880defbf0e09bb419e4c654",
+      "final_url": "https://alrwasi.ly/images/shahat-mall.jpg"
+    }
+  ]
+}
