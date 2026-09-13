@@ -12,12 +12,21 @@ export function Hero({ lang }: { lang: Lang }) {
   const drawing = useRef<HTMLImageElement>(null);
   const seam = useRef<HTMLDivElement>(null);
   const input = useRef<HTMLInputElement>(null);
+  const stage = useRef<HTMLDivElement>(null);
   const manual = useRef(false);
+  const dragging = useRef(false);
   const apply = (value: number) => {
     const left = 100 - value;
     if (drawing.current) drawing.current.style.clipPath = `inset(0 ${value}% 0 0)`;
     if (seam.current) seam.current.style.left = `${left}%`;
     if (input.current) input.current.value = String(value);
+  };
+  const applyFromClientX = (clientX: number) => {
+    const rect = stage.current?.getBoundingClientRect();
+    if (!rect) return;
+    const ratio = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
+    manual.current = true;
+    apply(Math.round((1 - ratio) * 100));
   };
   useEffect(() => {
     gsap.registerPlugin(ScrollTrigger);
@@ -38,7 +47,14 @@ export function Hero({ lang }: { lang: Lang }) {
   return <section className="hero-section" ref={root} aria-labelledby="hero-heading">
     <div className="hero-art" dir="ltr">
       <div className="drawing-stages" aria-hidden><span>{text(lang, 'من الفكرة', 'The idea')}</span><span>{text(lang, 'إلى النموذج', 'The model')}</span><span>{text(lang, 'إلى الواقع', 'The landmark')}</span></div>
-      <div className="building-comparison">
+      <div
+        className="building-comparison"
+        ref={stage}
+        onPointerDown={e => { dragging.current = true; e.currentTarget.setPointerCapture(e.pointerId); applyFromClientX(e.clientX); }}
+        onPointerMove={e => { if (dragging.current) applyFromClientX(e.clientX); }}
+        onPointerUp={() => { dragging.current = false; }}
+        onPointerCancel={() => { dragging.current = false; }}
+      >
         <img className="building-layer" src={asset('/images/generated/hero-render.webp')} width="1536" height="1024" alt={text(lang, 'تصور معماري يتحول من تشريح إنشائي داخلي إلى مبنى بواجهات معدنية مكتمل', 'Architectural concept transitioning from an internal structural cutaway into a finished bronze-finned building')} fetchPriority="high" />
         <img ref={drawing} className="building-layer drawing-layer" src={asset('/images/generated/hero-drawing.webp')} width="1536" height="1024" alt="" aria-hidden style={{ clipPath: 'inset(0 62% 0 0)' }} />
         <div ref={seam} className="comparison-seam" style={{ left: '38%' }} aria-hidden><span><ArrowsLeftRight size={16} /></span></div>
