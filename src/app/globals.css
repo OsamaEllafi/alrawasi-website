@@ -59,7 +59,7 @@
 .project-stack-body::before{content:'';position:absolute;inset-inline-end:-170px;bottom:-200px;width:470px;height:470px;border-radius:50%;background:#eef1f5;pointer-events:none}
 .project-stack-body::after{content:'';position:absolute;inset-inline-end:-110px;top:-130px;width:330px;height:330px;border-radius:50%;border:1px solid #dce2e9;pointer-events:none}
 .project-stack-body>*{position:relative;z-index:1}
-.project-stack-index{font:400 52px/1 'Outfit',sans-serif;color:#c9cbd0}
+.project-stack-index{width:fit-content;font:400 52px/1 'Outfit',sans-serif;background:linear-gradient(135deg,var(--accent) 0%,var(--accent-hover) 52%,#d03c89 100%);-webkit-background-clip:text;background-clip:text;color:transparent;-webkit-text-fill-color:transparent}
 .project-stack-meta{font-size:12px;letter-spacing:.03em;color:var(--muted)}
 .project-stack-body h3{font-size:clamp(26px,2.2vw,34px)}
 .project-stack-desc{font-size:15px;line-height:1.9;color:#565d65;max-width:48ch}
