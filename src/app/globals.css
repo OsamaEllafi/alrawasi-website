@@ -55,7 +55,7 @@
 /* Featured projects: a deck of cards that cross-fades through the stack as the section scrolls. */
 .project-stack{position:relative;display:flex;flex-direction:column;gap:28px;margin-top:56px}
 .project-stack-card{display:grid;grid-template-columns:1.15fr 1fr;background:var(--paper);color:var(--ink);border-radius:24px;overflow:hidden;box-shadow:0 40px 80px -40px rgba(0,0,0,.6)}
-.project-stack-body{padding:52px;display:flex;flex-direction:column;justify-content:center;gap:16px;min-width:0}
+.project-stack-body{padding:52px;display:flex;flex-direction:column;justify-content:center;gap:16px;min-width:0;background-color:var(--paper);background-image:repeating-linear-gradient(to right,#eceef1 0,#eceef1 1px,transparent 1px,transparent 48px),repeating-linear-gradient(to bottom,#eceef1 0,#eceef1 1px,transparent 1px,transparent 48px)}
 .project-stack-index{font:400 52px/1 'Outfit',sans-serif;color:#c9cbd0}
 .project-stack-meta{font-size:12px;letter-spacing:.03em;color:var(--muted)}
 .project-stack-body h3{font-size:clamp(26px,2.2vw,34px)}
