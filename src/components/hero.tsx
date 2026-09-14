@@ -55,8 +55,8 @@ export function Hero({ lang }: { lang: Lang }) {
         onPointerUp={() => { dragging.current = false; }}
         onPointerCancel={() => { dragging.current = false; }}
       >
-        <img className="building-layer" src={asset('/images/generated/hero-render.webp')} width="1536" height="1024" alt={text(lang, 'تصور معماري يتحول من تشريح إنشائي داخلي إلى مبنى بواجهات معدنية مكتمل', 'Architectural concept transitioning from an internal structural cutaway into a finished bronze-finned building')} fetchPriority="high" />
-        <img ref={drawing} className="building-layer drawing-layer" src={asset('/images/generated/hero-drawing.webp')} width="1536" height="1024" alt="" aria-hidden style={{ clipPath: 'inset(0 62% 0 0)' }} />
+        <img className="building-layer" src={asset('/images/generated/hero-render.webp')} width="1536" height="1024" alt={text(lang, 'تصور معماري يتحول من تشريح إنشائي داخلي إلى مبنى بواجهات معدنية مكتمل', 'Architectural concept transitioning from an internal structural cutaway into a finished bronze-finned building')} fetchPriority="high" draggable={false} />
+        <img ref={drawing} className="building-layer drawing-layer" src={asset('/images/generated/hero-drawing.webp')} width="1536" height="1024" alt="" aria-hidden style={{ clipPath: 'inset(0 62% 0 0)' }} draggable={false} />
         <div ref={seam} className="comparison-seam" style={{ left: '38%' }} aria-hidden><span><ArrowsLeftRight size={16} /></span></div>
         <input ref={input} className="comparison-input" type="range" min="0" max="100" defaultValue="62" aria-label={text(lang, 'اسحب لإظهار التصور المعماري', 'Drag to reveal the architectural rendering')} onInput={e => { manual.current = true; apply(Number(e.currentTarget.value)); }} />
       </div>
